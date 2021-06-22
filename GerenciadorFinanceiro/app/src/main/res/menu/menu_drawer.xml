@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/drawer_menu_all"
+            android:title="Movimentações"
+            android:icon="@drawable/ic_add"/>
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/drawer_menu_despesas"
+            android:title="Despesas"
+            android:icon="@drawable/ic_add"/>
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/drawer_menu_receitas"
+            android:title="Receitas"
+            android:icon="@drawable/ic_add"/>
+    </group>
+</menu>
